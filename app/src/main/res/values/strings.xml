@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Eldon London</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="app_share_text">This is Global Need Store App. Please Download it from Play Store</string>
+    <string name="play_store_link">https://play.google.com/store/apps/details?id=com.bilwgapps.eldonlondon</string>
+    <string name="rate_us_link">market://details?id=com.bilwgapps.eldonlondon</string>
+    <string name="privacypolicy">https://www.yanfuturistic.com/eldonlondon/privacy_policy.html</string>
+</resources>

@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "974568323687",
+    "firebase_url": "https://eldonlondon-4dbf0.firebaseio.com",
+    "project_id": "eldonlondon-4dbf0",
+    "storage_bucket": "eldonlondon-4dbf0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974568323687:android:3ff9dda753aee71a",
+        "android_client_info": {
+          "package_name": "com.appm.eldonlondon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "974568323687-mldb9fvlbg288bkj9ph8l2a8kduhe0du.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSehF5cI9GqR2Ewmy60gOHORviA_bBfuA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "974568323687-mldb9fvlbg288bkj9ph8l2a8kduhe0du.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974568323687:android:0a207e580851b06e",
+        "android_client_info": {
+          "package_name": "com.bilwgapps.eldonlondon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "974568323687-mldb9fvlbg288bkj9ph8l2a8kduhe0du.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSehF5cI9GqR2Ewmy60gOHORviA_bBfuA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "974568323687-mldb9fvlbg288bkj9ph8l2a8kduhe0du.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
